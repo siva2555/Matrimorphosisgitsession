@@ -1,2 +1,2 @@
 # Matrimorphosisgitsession
-iam some pratice for git and github 
+iam doing some pratice on git and github 
